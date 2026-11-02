@@ -1,7 +1,7 @@
 # Hey, I'm Martin 👋
 
 I build smart tools, custom dashboards, and automation via **Vibecoding** 🚀  
-With a practical and technical background, I focus on system ideas, architecture, and user experience — leveraging AI powerhouses like **Claude** and **OpenCode** to translate concepts into clean code.
+leveraging AI powerhouses like **Claude** and **OpenCode** to translate concepts into clean code.
 
 ---
 
