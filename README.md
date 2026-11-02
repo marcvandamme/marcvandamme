@@ -20,7 +20,7 @@ With a practical and technical background, I focus on system ideas, architecture
 
 ### 🚀 Featured Projects
 
-* **[DRG Survivor Trainer](https://github.com/YOUR-USERNAME/drg-survivor-trainer)**  
+* **[DRG Survivor Trainer](https://github.com/marcvandamme/drg-survivor-trainer)**  
   A lightweight BepInEx trainer mod for **Deep Rock Galactic: Survivor** (single-player only).
 
 * 🏠 **Smart Home & Raspberry Pi Dashboards:**  
