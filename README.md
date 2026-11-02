@@ -34,6 +34,5 @@ leveraging AI powerhouses like **Claude** and **OpenCode** to translate concepts
 ### 📊 GitHub Stats
 
 > **Note:** Replace `YOUR-USERNAME` in the links below with your actual GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-marcvandamme&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-marcvandamme&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcvandamme&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcvandamme&layout=compact&theme=dark)
