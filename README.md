@@ -18,6 +18,9 @@ leveraging AI powerhouses like **Claude** and **OpenCode** to translate concepts
 
 ### 🚀 Featured Projects
 
+* **[RLC Studio](https://github.com/marcvandamme/rlc-studio)** — [Live demo](https://marcvandamme.github.io/rlc-studio/)  
+  A React and TypeScript workbench for series and parallel RLC circuits, with phasor diagrams, frequency response, PDF reports, and step-by-step teaching formulas.
+
 * **[DRG Survivor Trainer](https://github.com/marcvandamme/drg-survivor-trainer)**  
   A lightweight BepInEx trainer mod for **Deep Rock Galactic: Survivor** (single-player only).
 
